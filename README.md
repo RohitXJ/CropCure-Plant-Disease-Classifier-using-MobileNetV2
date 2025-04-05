@@ -37,7 +37,7 @@ This dataset includes thousands of labeled leaf images of various crops with hea
 You can try it locally by cloning the repository and running:
 
 ```bash
-git clone https://github.com/yourusername/cropcure.git
+git clone https://github.com/yourusername/cropcure.git](https://github.com/RohitXJ/CropCure-Plant-Disease-Classifier-using-MobileNetV2.git
 cd cropcure
 pip install -r requirements.txt
 python app.py
